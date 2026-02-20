@@ -413,8 +413,8 @@ const workshops_week2 = [
   {
     name: "A Celebration of Professor Marta Kwiatkowskas Contributions to Formal Methods (MartaFest)",
     aff: "CAV",
-    start: 24,
-    end: 24,
+    start: 25,
+    end: 25,
     link: null,
   },
   {
