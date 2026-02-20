@@ -411,7 +411,7 @@ const workshops_week2 = [
     link: "https://linda-workshop26.cs.uni-paderborn.de",
   },
   {
-    name: "A Celebration of Professor Marta Kwiatkowskas Contributions to Formal Methods (MartaFest)",
+    name: "A Celebration of Professor Marta Kwiatkowska's Contributions to Formal Methods (MartaFest)",
     aff: "CAV",
     start: 24,
     end: 24,
